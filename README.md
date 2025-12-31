@@ -90,8 +90,8 @@ aws --version
 4. Enter your credentials when prompted:
 
    ```
-   AWS Access Key ID [None]: YOUR_ACCESS_KEY_ID
-   AWS Secret Access Key [None]: YOUR_SECRET_ACCESS_KEY
+   AWS Access Key ID [None]: YOUR_ACCESS_KEY_ID 
+   AWS Secret Access Key [None]: YOUR_SECRET_ACCESS_KEY 
    Default region name [None]: us-east-1
    Default output format [None]: json
    ```
